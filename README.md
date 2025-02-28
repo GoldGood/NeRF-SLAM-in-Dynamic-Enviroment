@@ -1,3 +1,3 @@
 # NeRF-SLAM-in-Dynamic-Enviroment
 
-Comeing Soon!
+The code will release after the paper is accepted!
